@@ -3,7 +3,7 @@
 ### Page not found
 > React Links - "requested URL was not found on this server" after being deployed on live server
 
-> _You need to create a file of root directory. The contents of your .htacces file should be this:_
+> _You need to create a file of root directory. The contents of your __.htaccess__ file should be this:_
 
 ```bash
 RewriteEngine On
